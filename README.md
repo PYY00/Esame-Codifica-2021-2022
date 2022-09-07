@@ -4,4 +4,4 @@ Progetto relativo all'esame Codifica di Testi tenuto dal Professore Angelo Del G
 
 Il progetto consiste nella codifica nel linguaggio XML di due scritti di De Saussure e nell'elaborazione di questo documneto tramite il linguaggio XSL per creare un documento output HTML.
 
-Progetto svolto assieme a Paula Yoncheva.
+Progetto svolto assieme a Chiara Piccolo.
