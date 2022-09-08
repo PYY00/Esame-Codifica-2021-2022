@@ -33,6 +33,7 @@ $(document).ready(function(){
         $('#p1').addClass('u-hide');
         $("#change").val('Pagina 19');
     });
+    
 
     $('#del').click(function(){
     $("#del").toggleClass("v");
