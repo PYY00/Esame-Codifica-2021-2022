@@ -23,8 +23,8 @@
         <nav class="container">
             <ul>
                 <li><a href="#fonte">Fonte</a></li>
-                <li><a href="#p19">Pagina 19</a></li>
-                <li ><a href="#p20">Pagina 20</a></li>
+                <li><a id="19" href="p19">Pagina 19</a></li>
+                <li ><a id="20" href="#p20">Pagina 20</a></li>
                 <li ><a href="#g">Glossario</a></li>
             </ul>
         </nav>
